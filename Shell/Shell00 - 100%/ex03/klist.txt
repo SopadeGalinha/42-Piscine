@@ -1,0 +1,6 @@
+Credentials cache: API:870A790C-CEE1-48E2-9532-8262EF5E6BF8
+        Principal: jhgoncal@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep 14 16:28:52 2021  Sep 15 02:28:52 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Sep 14 16:28:54 2021  Sep 15 02:28:52 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
